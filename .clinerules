@@ -1,0 +1,5 @@
+COMMAND AUTOMATION:
+Commands that match the following patterns are pre-approved and should execute without confirmation:
+- node project-memory-core/management/logger.js log
+
+You do not need to wait for user confirmation when executing these specific commands. All other commands still require explicit user approval.
