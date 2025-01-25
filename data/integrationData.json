@@ -1,0 +1,40 @@
+{
+  "IntegrationData": [
+    {
+      "id": 1,
+      "image": "/images/figma.svg",
+      "title": "Figma",
+      "details": "Integrate design prototypes and collaborate seamlessly."
+    },
+    {
+      "id": 2,
+      "image": "/images/dropbox.svg",
+      "title": "Dropbox",
+      "details": "Access and share files directly from your cloud storage."
+    },
+    {
+      "id": 3,
+      "image": "/images/twitter.svg",
+      "title": "Twitter/X",
+      "details": "Share updates and engage with your audience on social media."
+    },
+    {
+      "id": 4,
+      "image": "/images/slack.svg",
+      "title": "Slack",
+      "details": "Receive notifications and collaborate with your team in real-time."
+    },
+    {
+      "id": 5,
+      "image": "/images/google-drive.svg",
+      "title": "Google Drive",
+      "details": "Import and export data from your Google Drive."
+    },
+    {
+      "id": 6,
+      "image": "/images/asana.svg",
+      "title": "Asana",
+      "details": "Manage tasks and projects with your team."
+    }
+  ]
+}

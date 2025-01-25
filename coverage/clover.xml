@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1737765830009" clover="3.2.0">
+  <project timestamp="1737765830009" name="All files">
+    <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="8" coveredelements="8" complexity="0" loc="7" ncloc="7" packages="1" files="1" classes="1"/>
+    <file name="HeroSection.tsx" path="C:\Users\james\Master\BrightHub\Development\Aplio-Design-System-Platform\foundbright-parent-12\js-aplio-12-roo1\components\home\sections\HeroSection\HeroSection.tsx">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="8" count="7" type="stmt"/>
+      <line num="9" count="7" type="stmt"/>
+      <line num="10" count="7" type="stmt"/>
+    </file>
+  </project>
+</coverage>
